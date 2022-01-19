@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bro/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Bro/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Bro/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.2264151024877837" />
+        <entry key="..\:/Users/Bro/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/city_list_item.xml" value="0.2988679352838745" />
+        <entry key="..\:/Users/Bro/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_cities.xml" value="0.2988679352838745" />
+        <entry key="..\:/Users/Bro/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_weather.xml" value="0.2264151024877837" />
+        <entry key="..\:/Users/Bro/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/weather_list_item.xml" value="0.3145833333333333" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

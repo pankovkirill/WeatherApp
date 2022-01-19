@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="find_city">Узнать погоду в другом городе</string>
+    <string name="city">city</string>
+    <string name="temp">0°с</string>
+    <string name="description">Ясно</string>
+    <string name="daily_weather">Прогноз на неделю</string>
 </resources>
